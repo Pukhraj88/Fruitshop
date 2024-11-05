@@ -1,0 +1,49 @@
+
+[
+    {
+      "id": 1,
+      "name": "Red Apple",
+      "img": "apple.png",
+      "price": "100",
+      "details": "1kg"
+    },
+    {
+      "id": 2,
+      "name": "Avocado",
+      "img": "avocado.png",
+      "price": "135",
+      "details": "1kg"
+    },
+    {
+      "id": 3,
+      "name": "Cherry Sweet",
+      "img": "cherry.png",
+      "price": "326",
+      "details": "1kg"
+    },
+    {
+      "id": 4,
+      "name": "Banana",
+      "img": "banana.png",
+      "price": "37",
+      "details": "1kg"
+    },
+  
+    {
+      "id": 5,
+      "name": "Orange",
+      "img": "orange.png",
+      "price": "55",
+      "details": "1kg"
+    },
+    {
+      "id": 6,
+      "name": "Cherry Sweet",
+      "img": "cherry.png",
+      "price": "326",
+      "details": "1kg"
+    }
+
+
+  ]
+  

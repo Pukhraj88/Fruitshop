@@ -1,0 +1,21 @@
+@media (max-width: 480px) {
+  #footertitle::before {
+    content: "";
+    position: absolute;
+    left: 10%;
+    width: 25%; /* Make it as wide as the title */
+    background-color: red; /* Set the color of the line */
+    height: 4px; /* Height of the line */
+    z-index: -1; /* Send it behind the text */
+  }
+
+  #footertitle::after {
+    content: "";
+    position: absolute;
+    right: 10%;
+    width: 25%; /* Make it as wide as the title */
+    background-color: red; /* Set the color of the line */
+    height: 4px; /* Height of the line */
+    z-index: -1; /* Send it behind the text */
+  }
+}

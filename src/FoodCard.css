@@ -1,0 +1,10 @@
+.maindivfoodcart{
+
+    max-width: 320px;
+
+}
+.imgfoodcart{
+    width: 100%;
+    object-fit: contain;
+
+}

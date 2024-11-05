@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
+@media (min-width: 410px) and (max-width: 1300px) {
+  .specialofferbanner {
+    display: none;
+  }
+}
+@media (max-width: 410px) {
+}
+.specialofferbanner {
+  width: 98%;
+  height: 340px;
+  background-color: hsla(0, 0, 0%, 94%);
+  text-align: center;
+  overflow: hidden;
+  margin: auto;
+  border-radius: 4px;
+}
+
+.sliders-divhere {
+  height: 250px;
+  scale: 0.9 0.8;
+  margin: 0;
+  padding: 0;
+}
+.sliders-divhere::before {
+  content: "Get 20% off all products!";
+  position: relative;
+  border-radius: 5px;
+
+  padding: 10px 20px 20px 20px;
+  box-shadow: rgba(0, 0, 0, 0.021) 15px 20px 46px 0px,
+    rgba(0, 0, 0, 0.041) 0px 0px 0px 1px;
+  font-weight: 500;
+  font-size: 22px;
+  color: #ee0a0a;
+  left: -10%;
+  z-index: -4;
+}

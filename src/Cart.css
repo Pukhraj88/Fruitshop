@@ -1,0 +1,17 @@
+
+.cartshowimg{
+  object-fit: contain;
+width: 24%;
+}
+
+@media (max-width: 450px) {
+  .removecartbtn {
+    border-radius: 2px;
+    font-size: 12px;
+    margin: 0;
+    margin-top: 2px;
+    padding: 1px;
+    width: 60%;
+  }
+}
+

@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
+
+#decs {
+  font-family: "jost";
+}
+#herobtn {
+  font-size: 1rem;
+  font-weight: 400;
+  background-color: #16e616b7;
+  padding: 4px 8px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+.herodiv1 {
+  overflow: hidden;
+}
+
+/* image rotation */
+@keyframes rotate {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.img-rotate {
+  overflow: hidden;
+  animation: rotate 30s linear infinite;
+}
+
+/* If you want to keep other animations */
+.animate-spin-slow {
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
