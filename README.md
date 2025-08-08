@@ -5,11 +5,18 @@ Currently, the **backend is under development**, but the frontend is fully funct
 
 ---
 
+## 🌐 Live Demo
+🔗 [View Grocery Store App](https://fruitshop01.netlify.app/)
+
+---
+
 ## 📖 Description
 This project is a grocery shopping web app where users can explore fresh fruits and grocery products, add them to their cart, and view the cart summary.  
 Once the backend is complete, it will support checkout, authentication, and order management.
 
 ---
+
+## 📸 Screenshots
 
 ## ✨ Features
 - 🛍 **Product Listing** – Displays fruits and grocery items with images and prices  
@@ -26,8 +33,7 @@ Once the backend is complete, it will support checkout, authentication, and orde
 
 ## 🛠 Technologies Used
 - **React.js**
-- **JavaScript (ES6+)**
-- **CSS / Tailwind CSS** (if applied)
+- Tailwind CSS**
 
 ---
 
@@ -35,8 +41,3 @@ Once the backend is complete, it will support checkout, authentication, and orde
 🔗 [View Grocery Store App](https://fruitshop01.netlify.app/)
 
 ---
-
-## 📦 Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-url>
