@@ -16,7 +16,12 @@ Once the backend is complete, it will support checkout, authentication, and orde
 
 ---
 
-## 📸 Screenshots
+## 📸 Screensho
+<img width="1280" height="1024" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/624878eb-c9ab-43d8-975e-9e3aad056e1f" />
+ts
+
+<img width="1280" height="1024" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/ecda6167-08e9-4695-ad84-c95b466d970e" />
+
 
 ## ✨ Features
 - 🛍 **Product Listing** – Displays fruits and grocery items with images and prices  
